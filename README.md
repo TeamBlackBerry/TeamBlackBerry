@@ -10,9 +10,25 @@
  <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 🥰WELCOME TO MY PROFILE🥰
 
-- 🎭 ADMIN-TEAM BLACK BERRY 
+- 😏 MY Name IS :- Mohammad Alamin
+ 
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲 I AM MUSLIM
+- 🇧🇩 Lives In :- BANGLADESH
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+- 📕 SCHOOL & Class :- Inter 2nd Year😁
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+- 🙂 Relation :- Born To Single 💔
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+-🤲 Religion  :-Islam 😇
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
