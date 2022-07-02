@@ -36,6 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamBlackBerry)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TeamBlackBerry&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/TeamBlackBerry)  
