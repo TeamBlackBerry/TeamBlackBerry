@@ -1,5 +1,5 @@
 
-### Hi there 👋, My Name Is Mohammad Alamin
+### Hi There 👋, My Name Is Mohammad Alamin
 #### I am Noob Hacker 🙈
 <p align="center"><img src="https://img.shields.io/badge/I Am %20A BANGLADESHI- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  
@@ -8,7 +8,8 @@
   
   </p>
  <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-🥰WELCOME TO MY PROFILE🥰
+
+-🥰WELCOME TO MY PROFILE🥰
 
 - 🙂 MY Name IS :- Mohammad Alamin
  
