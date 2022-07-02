@@ -41,5 +41,7 @@
 ![Profile views](https://gpvc.arturio.dev/TeamBlackBerry)  
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/%F0%9D%90%93%F0%9D%90%84%F0%9D%90%80%F0%9D%90%8C-%F0%9D%90%81%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%82%F0%9D%90%8A-%F0%9D%90%81%F0%9D%90%84%F0%9D%90%91%F0%9D%90%91%F0%9D%90%98-107278255176114/)
+
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/teamblackberryceo)
