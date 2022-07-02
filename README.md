@@ -10,7 +10,7 @@
  <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 🥰WELCOME TO MY PROFILE🥰
 
-- 😏 MY Name IS :- Mohammad Alamin
+- 🙂 MY Name IS :- Mohammad Alamin
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -28,7 +28,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
--🤲 Religion  :-Islam 😇
+- 🤲 Religion  :-Islam 😇
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
